@@ -1,0 +1,14 @@
+main.c:89:5:main	8	static
+main.c:134:6:SystemClock_Config	72	static
+main.c:171:13:MX_TIM2_Init	32	static
+main.c:216:13:MX_GPIO_Init	32	static
+main.c:262:6:custom_system_init	8	static
+main.c:281:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:294:6:fsm_traffic_master	8	static
+main.c:379:6:timer_2_logic	8	static
+main.c:388:6:traffic_state_controller	8	static
+main.c:444:6:setting_led_controller	16	static
+main.c:505:6:clear_led	8	static
+main.c:510:6:led_controller	8	static
+main.c:547:6:display7Seg	16	static
+main.c:564:6:Error_Handler	4	static,ignoring_inline_asm
